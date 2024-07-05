@@ -1,0 +1,47 @@
+# Build
+/build/
+
+# Pronamic Deployer
+/deployer/
+
+# Etc
+/etc/
+
+# Composer
+vendor/
+
+# Composer bin plugin
+/vendor-bin/**/vendor/
+
+# Eclipse
+/.buildpath
+/.project
+/.settings
+
+# Grunt
+/node_modules/
+
+# Deploy
+/deploy/
+
+# PHPUnit
+/phpunit.xml
+
+# PHPCS
+/phpcs.xml
+
+# PhpStorm
+.idea
+
+# Sass
+.sass-cache
+
+# WordPress
+/wordpress/
+
+# WordPress content
+/wp-content/
+
+# Repositories
+/repositories/
+/packages/

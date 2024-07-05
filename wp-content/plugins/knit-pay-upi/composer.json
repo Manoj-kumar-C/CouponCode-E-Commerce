@@ -1,0 +1,16 @@
+{
+	"require" : {
+		"automattic/jetpack-autoloader" : "^3.0",
+		"khanamiryan/qrcode-detector-decoder" : "^1.0"
+	},
+	"config" : {
+		"sort-packages" : true,
+		"allow-plugins" : {
+			"php-http/discovery" : false,
+			"automattic/jetpack-autoloader" : true
+		},
+		"platform" : {
+			"php" : "8.0"
+		}
+	}
+}
