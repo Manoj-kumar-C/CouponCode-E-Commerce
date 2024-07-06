@@ -1,0 +1,79 @@
+.elementor-4232 .elementor-element.elementor-element-39b06e3a .elementor-column-gap-custom .elementor-column > .elementor-element-populated{padding:15px;}.elementor-4232 .elementor-element.elementor-element-39b06e3a{padding:0px 0px 80px 0px;}.elementor-4232 .elementor-element.elementor-element-734158f1.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-4232 .elementor-element.elementor-element-ba706ec > .elementor-widget-container{padding:0px 0px 40px 0px;}.elementor-4232 .elementor-element.elementor-element-ba706ec .thim-ekits-heading{align-items:center;text-align:center;}.elementor-4232 .elementor-element.elementor-element-ba706ec .thim-ekits-heading .title{margin:0px 0px 0px 0px;}.elementor-4232 .elementor-element.elementor-element-ba706ec .thim-ekits-heading .title > span{color:#000000;}.elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title, .elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title:before, .elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title:after, .elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-content, .elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tabs-content-wrapper{border-width:0px;}.elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title, .elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title a{color:var( --e-global-color-accent );}.elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title.elementor-active,
+					 .elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title.elementor-active a{color:var( --e-global-color-primary );}.elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );}.elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-content{color:var( --e-global-color-text );}.elementor-4232 .elementor-element.elementor-element-5827ee45 .elementor-column-gap-custom .elementor-column > .elementor-element-populated{padding:15px;}.elementor-4232 .elementor-element.elementor-element-5827ee45:not(.elementor-motion-effects-element-type-background), .elementor-4232 .elementor-element.elementor-element-5827ee45 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-c39b0e9 );}.elementor-4232 .elementor-element.elementor-element-5827ee45{border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-b98c1d1 );transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:-59px;padding:65px 0px 65px 0px;}.elementor-4232 .elementor-element.elementor-element-5827ee45 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-4232 .elementor-element.elementor-element-62cbf445 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-4232 .elementor-element.elementor-element-b4101ce > .elementor-widget-container{padding:0px 0px 40px 0px;}.elementor-4232 .elementor-element.elementor-element-b4101ce .thim-ekits-heading{align-items:flex-start;text-align:left;}.elementor-4232 .elementor-element.elementor-element-b4101ce .thim-ekits-heading .title{margin:0px 0px 0px 0px;}.elementor-4232 .elementor-element.elementor-element-b4101ce .thim-ekits-heading .title > span{color:#000000;}.elementor-4232 .elementor-element.elementor-element-42c6fffb img{border-radius:10px 10px 10px 10px;}@media(max-width:1024px){.elementor-4232 .elementor-element.elementor-element-39b06e3a{padding:50px 0px 30px 0px;}.elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-4232 .elementor-element.elementor-element-5827ee45{padding:40px 0px 40px 0px;}}@media(max-width:767px){.elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-4232 .elementor-element.elementor-element-5827ee45{margin-top:0px;margin-bottom:-29px;}.elementor-4232 .elementor-element.elementor-element-42c6fffb > .elementor-widget-container{padding:0px 0px 20px 0px;}}/* Start custom CSS for tabs, class: .elementor-element-77b9ce0d */.elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-content {
+    padding: 24px 0;
+    border-top: 1px solid #E4E4E4 !important;
+}
+.elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title {
+    padding:  0 0 10px 0;
+}
+.elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tab-title:hover {
+    color: var(--thim-body-primary-color)
+}
+.elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tabs-wrapper {
+    column-gap: 40px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+}
+@media (max-width: 767px){
+    .elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tabs-content-wrapper .elementor-tab-title {
+        display: none;
+    }
+    .elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tabs-wrapper {
+        display: block;
+        overflow: auto;
+        margin-bottom: -5px;
+    }
+    .elementor-4232 .elementor-element.elementor-element-77b9ce0d .elementor-tabs-wrapper .elementor-tab-title {
+        white-space: nowrap;
+        padding-right: 15px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-c03f1d */.elementor-4232 .elementor-element.elementor-element-c03f1d .become-teacher-form {
+    text-align: left;
+    padding: 0;
+    border: none;
+    margin: 0;
+    width: 100%;
+    max-width: none;
+}
+.elementor-4232 .elementor-element.elementor-element-c03f1d .become-teacher-form h3 {
+    display: none;
+}
+.elementor-4232 .elementor-element.elementor-element-c03f1d .become-teacher-form form {
+    display: flex;
+    flex-direction: column;
+    padding: 0
+}
+.elementor-4232 .elementor-element.elementor-element-c03f1d .become-teacher-form ul input, .elementor-4232 .elementor-element.elementor-element-c03f1d .become-teacher-form ul textarea {
+    text-align: left;
+    border: 1px solid #212427;
+    border-radius: var(--thim-border_radius-item);
+    padding: 13px !important;
+    background: transparent;
+    color: #000 !important;
+}
+.elementor-4232 .elementor-element.elementor-element-c03f1d .become-teacher-form ul textarea { 
+    min-height: 150px
+}
+.elementor-4232 .elementor-element.elementor-element-c03f1d .form-fields .form-field label {
+    display: none;
+}
+.elementor-4232 .elementor-element.elementor-element-c03f1d .become-teacher-form__description {
+    order: 2;
+    color: var(--thim-font-body-color);
+}
+.elementor-4232 .elementor-element.elementor-element-c03f1d .become-teacher-form button[type=submit] {
+    order: 3;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: var(--thim-font_body-font-size);
+    padding: 10px;
+    border-radius: var(--thim-border_radius-item);
+    font-weight: 500;
+    background-color: var(--thim-body_primary_color);
+    border: none;
+    line-height: 1.5em;
+}
+.elementor-4232 .elementor-element.elementor-element-c03f1d .become-teacher-form .form-field {
+    margin-bottom: 10px
+}/* End custom CSS */
