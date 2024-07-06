@@ -1,0 +1,34 @@
+
+body {
+	font-family: var(--thim-font_body-font-family);
+	font-size: var(--thim-font_body-font-size);
+	line-height: var(--thim-font_body-line-height);
+	letter-spacing: var(--thim-font_body-letter-spacing);
+	color: var(--thim-font_body-color);
+	text-transform: var(--thim-font_body-line-height);
+	font-weight: var(--thim-font_body-variant);
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: var(--thim-font_title-font-family);
+	color: var(--thim-font_title-color);
+	font-weight: var(--thim-font_title-variant);
+}
+
+$title_sizes: h1, h2, h3, h4, h5, h6;
+@each $title_size in $title_sizes {
+	#{$title_size} {
+		font-size: var(--thim-font_#{$title_size}-font-size);
+		line-height: var(--thim-font_#{$title_size}-line-height);
+		text-transform: var(--thim-font_#{$title_size}-line-height);
+	}
+}
+
+a {
+	color: $thim_font_title_color;
+	text-decoration: none;
+
+	&:hover {
+		color: $thim_body_primary_color;
+	}
+}

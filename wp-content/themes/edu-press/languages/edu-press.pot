@@ -1,0 +1,995 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EduPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-28 08:19+0000\n"
+"PO-Revision-Date: 2023-02-28 08:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: edu-press"
+
+#: thim-elementor-kit/course-categories/course-categories.php:325
+msgid " Courses "
+msgstr ""
+
+#: inc/admin/installer/installer.php:788
+#, php-format
+msgid "%1$s - We recommend a minimum PHP version of 5.6. See: %2$s"
+msgstr ""
+
+#: inc/admin/installer/installer.php:369
+#, php-format
+msgid "%s Theme notice!"
+msgstr ""
+
+#: inc/admin/installer/installer.php:886
+msgid "&copy; ThimPress 2021. All rights reserved. Powered by WordPress."
+msgstr ""
+
+#: comments.php:32 comments.php:44
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-archive.php:48
+msgid "2"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-archive.php:49
+msgid "3"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-archive.php:50
+msgid "4"
+msgstr ""
+
+#: 404.php:16 404.php:20
+msgid "404 Error"
+msgstr ""
+
+#: inc/template-tags.php:184
+msgid "<"
+msgstr ""
+
+#: inc/admin/installer/installer.php:642
+#, php-format
+msgid ""
+"<button data-href=\"%s\" class=\"thim-button-link button button-primary\">"
+"Return to Dashboard</button>"
+msgstr ""
+
+#: inc/admin/installer/installer.php:801
+#, php-format
+msgid ""
+"<strong>%s</strong> - We recommend setting memory to at least <strong>"
+"128MB</strong>. To learn how, see: <a href=\"%s\" target=\"_blank\">"
+"Increasing memory allocated to PHP.</a>"
+msgstr ""
+
+#: inc/template-tags.php:185
+msgid ">"
+msgstr ""
+
+#: inc/admin/installer/installer.php:742
+msgid "Activate again"
+msgstr ""
+
+#: inc/admin/installer/installer.php:699
+msgid "Activating Thim Core"
+msgstr ""
+
+#: inc/admin/installer/installer.php:737
+msgid "Activating Thim Core failed!"
+msgstr ""
+
+#: inc/admin/installer/installer.php:723
+msgid "Activating Thim Core successfully!"
+msgstr ""
+
+#: inc/admin/installer/installer.php:701
+msgid "Activating..."
+msgstr ""
+
+#: inc/admin/installer/class-thim-plugin.php:388
+msgid "Active"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:179
+msgid "Align Center"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:177
+msgid "Align Left"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:178
+msgid "Align Right"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-styling.php:58
+msgid ""
+"Allow to assign a value for body width. Example: 10px, 3em, 48%, 90vh, ..."
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-archive.php:42
+msgid "Allows select column grid."
+msgstr ""
+
+#: inc/admin/customizer-sections/header-layouts.php:41
+msgid "Allows you can select position layout for header layout. "
+msgstr ""
+
+#: inc/admin/customizer-sections/header-layouts.php:23
+msgid "Allows you can select size layout for header layout. "
+msgstr ""
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:40
+msgid "Allows you can select sticky menu style for your header . "
+msgstr ""
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:23
+msgid "Allows you can show or hide sticky header menu on your site . "
+msgstr ""
+
+#: inc/admin/customizer-sections/general-logo.php:14
+msgid "Allows you to add, remove, change logo on your site. "
+msgstr ""
+
+#: inc/admin/customizer-sections/general-logo.php:27
+msgid "Allows you to add, remove, or change the sticky logo on your site."
+msgstr ""
+
+#: inc/admin/customizer-sections/general-logo.php:51
+msgid ""
+"Allows you to assign a value for logo width. Example: 10px, 3em, 48%, 90vh "
+"etc."
+msgstr ""
+
+#: inc/admin/customizer-options.php:11
+msgid "Allows you to choose a layout for all archive pages."
+msgstr ""
+
+#: inc/admin/customizer-sections/general-styling.php:23
+msgid "Allows you to choose a primary color for your site."
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:38
+msgid "Allows you to choose background color for your copyright area. "
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:94
+msgid "Allows you to choose border color for your copyright area. "
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:66
+msgid "Allows you to choose color for your copyright area. "
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:22
+msgid "Allows you to enable or disable Copyright."
+msgstr ""
+
+#: inc/admin/customizer-sections/woocommerce-archive.php:21
+msgid "Allows you to enable or disable the quick view."
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:23
+msgid "Allows you to select all the font properties for the header."
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:30
+msgid ""
+"Allows you to select all the font properties of the body tag for your site"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:137
+msgid ""
+"Allows you to select all the font properties of the H1 tag for your site"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:168
+msgid ""
+"Allows you to select all the font properties of the H2 tag for your site"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:199
+msgid ""
+"Allows you to select all the font properties of the H3 tag for your site"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:230
+msgid ""
+"Allows you to select all the font properties of the H4 tag for your site"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:261
+msgid ""
+"Allows you to select all the font properties of the H5 tag for your site"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:292
+msgid ""
+"Allows you to select all the font properties of the H6 tag for your site"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:99
+msgid ""
+"Allows you to select the font-family for headings (h1, h2, h3, h4, h5, h6)"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-options.php:25
+msgid "Allows you to select the size layout for the footer layout."
+msgstr ""
+
+#: inc/init.php:252
+msgid "Appears in the copyright section of the site."
+msgstr ""
+
+#: inc/init.php:200
+msgid "Appears in the Sidebar section of the site."
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-archive.php:12 
+#: inc/admin/customizer-sections/woocommerce-archive.php:12
+msgid "Archive"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-meta.php:35
+msgid "Author"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-features.php:22
+msgid "Back To Top"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-styling.php:35
+msgid "Background Body Color"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:37 
+#: inc/admin/customizer-sections/header-sticky-menu.php:59 
+#: inc/admin/customizer-sections/header-main-menu.php:73 
+#: inc/admin/customizer-sections/header-main-menu.php:115 
+#: inc/admin/customizer-sections/header-main-menu.php:155 
+#: inc/admin/customizer-sections/footer-options.php:45 
+#: inc/admin/customizer-sections/general-features.php:83
+msgid "Background Color"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:122 
+#: thim-elementor-kit/course-categories/course-categories.php:143
+msgid "background Color"
+msgstr ""
+
+#: inc/wrapper-layout.php:146 inc/admin/customizer-sections/blog.php:12
+msgid "Blog"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:25
+msgid "Body"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:29
+msgid "Body Font"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:93 
+#: inc/admin/customizer-sections/header-main-menu.php:74
+msgid "Border Color"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:99
+msgid "Border Radius"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgid "by "
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "Categories: "
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-meta.php:36
+msgid "Category"
+msgstr ""
+
+#: inc/tax-meta.php:9
+msgid "Category Meta Box"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-archive.php:24
+msgid ""
+"Choose the number of words you want to cut from the content to be the "
+"excerpt of search and archive"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-meta.php:22
+msgid ""
+"Click on eye icon to show or hide buttons. Use drag and drop to change the "
+"position of meta tags.."
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-sharing.php:23
+msgid ""
+"Click on eye icons to show or hide buttons. Use drag and drop to change the "
+"position of social share icons.."
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:65 
+#: inc/admin/customizer-sections/header-sticky-menu.php:55 
+#: inc/admin/customizer-sections/footer-options.php:41
+msgid "Color"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-archive.php:41
+msgid "Column Grid"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-singular.php:61
+msgid "Column of Related"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:56
+msgid "Columns"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:256
+msgid "Columns Gap"
+msgstr ""
+
+#: comments.php:31 comments.php:43
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:59
+msgid "Comment*"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-meta.php:38
+msgid "Comments Number"
+msgstr ""
+
+#: inc/admin/installer/installer.php:772
+msgid "Configuration Check"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:79
+msgid "Content"
+msgstr ""
+
+#: inc/init.php:250 inc/admin/customizer-sections/footer-copyright.php:11
+msgid "Copyright"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:122
+msgid "Copyright Text"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:217
+msgid "Count"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:234
+msgid "Count Color"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:20 
+#: thim-elementor-kit/course-categories/course-categories.php:38
+msgid "Course Categories"
+msgstr ""
+
+#: inc/admin/customizer-sections/course.php:21
+msgid "Course Price Color"
+msgstr ""
+
+#: inc/admin/customizer-sections/course.php:12
+msgid "Courses"
+msgstr ""
+
+#: inc/admin/installer/installer.php:810
+msgid "cURL version"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:47
+msgid "Custom"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-meta.php:34
+msgid "Date"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-options.php:31 
+#: inc/admin/customizer-sections/header-layouts.php:29 
+#: inc/admin/customizer-sections/header-layouts.php:47
+msgid "Default"
+msgstr ""
+
+#: inc/data/demos.php:4
+msgid "Demo 1"
+msgstr ""
+
+#: inc/init.php:227
+msgid "Display in menu right item."
+msgstr ""
+
+#: inc/init.php:214
+msgid "Display in topbar."
+msgstr ""
+
+#: inc/template-tags.php:263
+msgid "Edit"
+msgstr ""
+
+#. Name of the theme
+msgid "EduPress"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:123
+msgid ""
+"Enter the text that displays in the copyright bar. HTML markup can be used."
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-archive.php:23
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-features.php:13
+msgid "Extra Features"
+msgstr ""
+
+#: inc/init.php:76 inc/admin/customizer-sections/blog-sharing.php:32
+msgid "Facebook"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-options.php:132
+msgid "Font Text"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-options.php:98
+msgid "Font Title"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer.php:12
+msgid "Footer"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-options.php:11
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/init.php:237
+msgid "Footer Sidebar"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-options.php:32 
+#: inc/admin/customizer-sections/header-layouts.php:30
+msgid "Full width"
+msgstr ""
+
+#: inc/admin/customizer-sections/general.php:12
+msgid "General"
+msgstr ""
+
+#: inc/admin/customizer-sections/header.php:13
+msgid "Header"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-layouts.php:40
+msgid "Header Positions"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:136
+msgid "Heading 1"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:167
+msgid "Heading 2"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:198
+msgid "Heading 3"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:229
+msgid "Heading 4"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:260
+msgid "Heading 5"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:291
+msgid "Heading 6"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:98
+msgid "Heading Font-Family"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-typography.php:94
+msgid "Headings"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:136 
+#: inc/admin/customizer-sections/footer-options.php:49
+msgid "Hover"
+msgstr ""
+
+#: inc/admin/installer/installer.php:788
+msgid "How to update your PHP version"
+msgstr ""
+
+#. URI of the theme
+msgid "http://edupress.thimpress.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://thimpress.com"
+msgstr ""
+
+#: inc/tax-meta.php:21
+msgid "Icon"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-features.php:84
+msgid "Icon Color"
+msgstr ""
+
+#: inc/admin/installer/class-thim-plugin.php:389
+msgid "Inactive"
+msgstr ""
+
+#: inc/admin/installer/installer.php:665
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/admin/installer/installer.php:625
+msgid "Install and activate Thim Core to use the theme features fully."
+msgstr ""
+
+#: inc/admin/installer/installer.php:371
+#, php-format
+msgid ""
+"Installed the theme successfully. <a href=\"%s\">Enable Thim Core to start "
+"now!</a>"
+msgstr ""
+
+#: inc/admin/installer/installer.php:691
+msgid "Installing Thim Core"
+msgstr ""
+
+#: templates/template-parts/content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/admin/customizer-options.php:10 
+#: thim-elementor-kit/course-categories/course-categories.php:248 
+#: inc/admin/customizer-sections/header-layouts.php:11
+msgid "Layout"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:45
+msgid "Limit categories"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:198
+msgid "line"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:191
+msgid "Line Active Item"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-options.php:48
+msgid "Link"
+msgstr ""
+
+#: templates/features/preloading/custom-image.php:10
+msgid "Loading..."
+msgstr ""
+
+#: inc/admin/customizer-options.php:52 
+#: inc/admin/customizer-sections/general-logo.php:13
+msgid "Logo"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-logo.php:50
+msgid "Logo width"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:11
+msgid "Main Menu"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:69
+msgid "Main Menu Color"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:169
+msgid "Margin"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-styling.php:57
+msgid "Max width container"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:172
+msgid "Menu Align"
+msgstr ""
+
+#: inc/init.php:225
+msgid "Menu Right"
+msgstr ""
+
+#: inc/admin/customizer-sections/nav-menus.php:7
+msgid "Menus"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-meta.php:21
+msgid "Meta Tags"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-meta.php:12
+msgid "Meta Tags Archive"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:151
+msgid "Mobile Menu Color"
+msgstr ""
+
+#: comments.php:33 comments.php:45
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: inc/template-tags.php:338
+msgid "Next Article"
+msgstr ""
+
+#: comments.php:50
+msgid "No comments yet! You be the first to comment."
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:197
+msgid "No line"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:115
+msgid "Normal"
+msgstr ""
+
+#: inc/admin/installer/class-thim-plugin.php:390
+msgid "Not Installed"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-singular.php:38
+msgid "Numbers of Related Post"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:28 
+#: inc/admin/customizer-sections/header-sticky-menu.php:29 
+#: inc/admin/customizer-sections/woocommerce-archive.php:27 
+#: inc/admin/customizer-sections/blog-singular.php:29 
+#: inc/admin/customizer-sections/general-features.php:29
+msgid "Off"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:27 
+#: inc/admin/customizer-sections/header-sticky-menu.php:28 
+#: inc/admin/customizer-sections/woocommerce-archive.php:26 
+#: inc/admin/customizer-sections/blog-singular.php:28 
+#: inc/admin/customizer-sections/general-features.php:28
+msgid "On"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-layouts.php:48
+msgid "Overlay"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:87
+msgid "Padding"
+msgstr ""
+
+#: inc/admin/customizer-sections/page-setting.php:6
+msgid "Page Setting"
+msgstr ""
+
+#: templates/template-parts/content-page.php:16 
+#: templates/template-parts/content-single.php:31
+msgid "Pages:"
+msgstr ""
+
+#: inc/admin/installer/installer.php:797
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: inc/admin/installer/installer.php:783
+msgid "PHP Version"
+msgstr ""
+
+#: inc/template-tags.php:263
+msgid "Pingback:"
+msgstr ""
+
+#: inc/init.php:82 inc/admin/customizer-sections/blog-sharing.php:34
+msgid "Pinterest"
+msgstr ""
+
+#: inc/admin/installer/installer.php:847
+#, php-format
+msgid ""
+"Please follow those instructions above to make sure your server is ready to "
+"use %s theme. If you need assistance, please get our support <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/admin/installer/installer.php:826
+msgid "Plugins directory"
+msgstr ""
+
+#: inc/admin/installer/installer.php:834
+msgid "Plugins directory writable"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-features.php:39
+msgid "Preloading"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-features.php:79
+msgid "Preloading Color"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-features.php:63
+msgid "Preloading Custom Image"
+msgstr ""
+
+#: inc/template-tags.php:326
+msgid "Previous Article"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-styling.php:22
+msgid "Primary Color"
+msgstr ""
+
+#: inc/init.php:306
+msgid "Primary Menu"
+msgstr ""
+
+#: templates/template-parts/content-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-singular.php:22
+msgid "Related Posts"
+msgstr ""
+
+#: inc/admin/installer/installer.php:815
+msgid "Remote GET"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-logo.php:39
+msgid "Retina Logo"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:277
+msgid "Rows Gap"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-logo.php:40
+msgid ""
+"Select an image file for the retina version of the logo. It should be "
+"exactly 2x the size of the logo."
+msgstr ""
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:39
+msgid "Select Styles"
+msgstr ""
+
+#: inc/admin/installer/installer.php:778
+msgid "Server Info"
+msgstr ""
+
+#: inc/init.php:72
+msgid "Share:"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:21
+msgid "Show Copyright"
+msgstr ""
+
+#: inc/admin/customizer-sections/woocommerce-archive.php:20
+msgid "Show Quick View"
+msgstr ""
+
+#: inc/init.php:198
+msgid "Sidebar"
+msgstr ""
+
+#: inc/init.php:239
+msgid "Sidebar display widgets."
+msgstr ""
+
+#: inc/admin/customizer-sections/woocommerce-single.php:12 
+#: inc/admin/customizer-sections/blog-singular.php:12
+msgid "Singular"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-options.php:24 
+#: inc/admin/customizer-sections/header-layouts.php:22
+msgid "Size"
+msgstr ""
+
+#: inc/admin/installer/installer.php:667
+msgid "Skip"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-sharing.php:12
+msgid "Social Share"
+msgstr ""
+
+#: inc/admin/installer/class-thim-plugin.php:67 
+#: inc/admin/installer/installer.php:739
+msgid "Something went wrong!"
+msgstr ""
+
+#: templates/template-parts/content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-sharing.php:22
+msgid "Sortable Sharing Buttons"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-logo.php:26
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:11
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:22
+msgid "Sticky On Scroll"
+msgstr ""
+
+#: inc/admin/customizer-sections/general-styling.php:12
+msgid "Styling"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-main-menu.php:111
+msgid "Sub Menu Color"
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-meta.php:37
+msgid "Tag"
+msgstr ""
+
+#: inc/template-tags.php:86
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-options.php:47
+msgid "Text"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:60 
+#: inc/admin/customizer-sections/header-main-menu.php:116 
+#: inc/admin/customizer-sections/header-main-menu.php:156
+msgid "Text Color"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:61 
+#: inc/admin/customizer-sections/header-main-menu.php:75 
+#: inc/admin/customizer-sections/header-main-menu.php:117 
+#: inc/admin/customizer-sections/header-main-menu.php:157
+msgid "Text Color Hover"
+msgstr ""
+
+#: inc/admin/customizer-sections/header-sticky-menu.php:46
+msgid "The same with the main menu"
+msgstr ""
+
+#. Description of the theme
+msgid "Theme Description."
+msgstr ""
+
+#: inc/admin/installer/installer.php:450 inc/admin/installer/installer.php:623
+msgid "Thim Core Installer"
+msgstr ""
+
+#: inc/admin/installer/installer.php:867
+#, php-format
+msgid "Thim Core Installer &lsaquo; %s"
+msgstr ""
+
+#. Author of the theme
+msgid "ThimPress"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:161 
+#: inc/admin/customizer-sections/footer-options.php:46
+msgid "Title"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:190
+msgid "Title Color"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:202
+msgid "Title Color Hover"
+msgstr ""
+
+#: inc/init.php:212
+msgid "Topbar "
+msgstr ""
+
+#: inc/admin/customizer-sections/blog-singular.php:23
+msgid "Turn on to display related posts."
+msgstr ""
+
+#: inc/admin/customizer-sections/general-features.php:23
+msgid ""
+"Turn on to enable the Back To Top script which adds the scrolling to top "
+"functionality."
+msgstr ""
+
+#: inc/init.php:79 inc/admin/customizer-sections/blog-sharing.php:33
+msgid "Twitter"
+msgstr ""
+
+#: thim-elementor-kit/course-categories/course-categories.php:182 
+#: thim-elementor-kit/course-categories/course-categories.php:226 
+#: inc/admin/customizer-sections/header-main-menu.php:22 
+#: inc/admin/customizer-sections/general-typography.php:13
+msgid "Typography"
+msgstr ""
+
+#: inc/admin/customizer-sections/widgets.php:7
+msgid "Widgets"
+msgstr ""
+
+#: inc/admin/customizer-sections/footer-copyright.php:149
+msgid "Width Column Copyright Text"
+msgstr ""
+
+#: inc/admin/installer/installer.php:820
+msgid "wp_remote_get() failed. Please contact your hosting provider."
+msgstr ""
+
+#: inc/admin/installer/installer.php:725
+#, php-format
+msgid "You are redirecting to %s theme dashboard..."
+msgstr ""
+
+#: inc/template-tags.php:278
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: templates/template-parts/related-single.php:13
+msgid "Your Might Also Like"
+msgstr ""
+
+#: inc/admin/installer/installer.php:640
+msgid "Your site have already installed Thim Core!"
+msgstr ""

@@ -1,0 +1,263 @@
+/*
+ * Include common style for theme */
+/**
+ * Style for typography  from customizer*/
+body {
+	background-color: $thim_background_main_color;
+
+	.container,.lp-content-area  {
+		max-width: $thim_body_container;
+	}
+}
+
+.top_heading {
+	background-color: $thim_breadcrumb_bg_color;
+}
+
+// Site content
+.site-content {
+	padding-top: 60px;
+	padding-bottom: 60px;
+
+	@media (max-width: 767px) {
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	&.no-padding {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+}
+
+// Slider style
+.flexslider {
+	ul {
+		margin: 0;
+		list-style: none;
+	}
+
+	position: relative;
+
+	.flex-direction-nav {
+		margin: 0;
+
+		a {
+			position: absolute;
+			z-index: 9;
+			top: 50%;
+			cursor: pointer;
+			width: 31px;
+			margin: 0;
+			height: 32px;
+			background: $thim_body_primary_color;
+			text-align: center;
+			overflow: hidden;
+			margin-top: -16px;
+			@include transition(all .3s ease-in-out);
+
+			&:before {
+				color: $white;
+				font-family: 'Line Awesome Free';
+				font-size: 22px;
+				line-height: 31px;
+				display: inline-block;
+			}
+		}
+
+		.flex-prev {
+			left: -36px;
+			opacity: 0;
+
+			&:before {
+				content: "\f060"
+			}
+		}
+
+		.flex-next {
+			right: -36px;
+			opacity: 0;
+
+			&:before {
+				content: "\f061"
+			}
+		}
+	}
+
+	&:hover {
+		.flex-direction-nav {
+			.flex-prev {
+				opacity: 0.8;
+				left: 5px;
+			}
+
+			.flex-next {
+				opacity: 0.8;
+				right: 5px;
+			}
+		}
+	}
+}
+
+// 404 page
+.error-404 {
+	margin-top: 50px;
+
+	.page-header {
+		h1 {
+			font-size: $thim_font_h1_font_size;
+			line-height: var(--thim-font_h1-line-height);
+		}
+	}
+}
+
+i.rp-square {
+	&::before {
+		background-color: rgba($color: #000000, $alpha: 0.3);
+		width: 22px;
+		height: 22px;
+		-webkit-mask-image: url("images/icons/svg/list-view2.svg");
+		mask-image: url("images/icons/svg/list-view2.svg");
+		@include thim-icons-svg();
+	}
+}
+
+i.rp-columns-2 {
+	&::before {
+		background-color: rgba($color: #000000, $alpha: 0.3);
+		width: 21px;
+		height: 21px;
+		-webkit-mask-image: url("images/icons/svg/grid-view.svg");
+		mask-image: url("images/icons/svg/grid-view.svg");
+		@include thim-icons-svg();
+	}
+}
+
+//Comment
+.wrapper-comment {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+	img {
+		flex: 1;
+		width: 80px;
+		height: 80px;
+		max-width: 80px;
+	}
+
+	.comment-right {
+		flex: 10.5;
+		margin-top: 15px;
+		width: calc(100% - 103px);
+
+		.comment-extra-info {
+			div {
+				margin-top: 15px;
+			}
+
+			div:first-child {
+				margin-top: 0;
+			}
+		}
+
+		.content-comment {
+			margin-top: 18px;
+			font-size: var(--thim-font_body-font-size);
+			line-height: 1.714;
+		}
+
+		a.comment-reply-link {
+			font-family: var(--thim-font_body-font-family);
+			font-weight: 600;
+			line-height: 1.2;
+			font-style: normal;
+			color: black;
+
+			&:hover {
+				color: $thim_body_primary_color;
+			}
+		}
+
+		.reply-cmt {
+			margin-top: 15px;
+
+			i {
+				margin-right: 5px;
+				color: $thim_body_primary_color;
+				text-indent: -6px;
+				font-size: 18px;
+			}
+		}
+	}
+}
+
+// Contact form 7
+.thim-ekit-wpcf7 {
+	.wpcf7-form-control-wrap {
+		display: block !important;
+
+		input, select, textarea {
+			width: 100%;
+			font-size: var(--thim-font_body-font-size);
+			font-family: $thim_font_body_font_family;
+		}
+
+		input {
+			&[type="radio"], &[type="checkbox"] {
+				width: auto;
+				height: auto;
+			}
+		}
+
+		textarea {
+			max-height: 160px;
+			border-radius: $thim_border_radius_item !important;
+		}
+	}
+
+	.input-field {
+		margin-bottom: 10px;
+		display: block;
+	}
+
+	.wpcf7-submit {
+		float: unset !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+	}
+
+	.wpcf7 form .wpcf7-response-output {
+		color: wheat;
+		margin: 1em 0;
+	}
+}
+
+// fix contact form 7
+.wpcf7-not-valid-tip {
+	margin-top: 10px;
+}
+// faqs
+.faqs-custom .elementor-tab-title::before {
+	content: "";
+	position: absolute;
+	left: 30px;
+	width: 25px;
+	height: 3px;
+	background-color: #D4D4D4;
+}
+
+.faqs-custom .elementor-tab-title {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-direction: row-reverse;
+}
+
+.faqs-custom .elementor-tab-title.elementor-active::before {
+	background-color: var(--thim-body_primary_color);
+}
+
+button {
+	cursor: pointer;
+}

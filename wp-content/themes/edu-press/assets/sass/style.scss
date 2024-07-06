@@ -1,0 +1,104 @@
+/*!
+Theme Name: EduPress
+Theme URI: http://edupress.thimpress.com/
+Author: ThimPress
+Author URI: http://thimpress.com
+Description: EduPress is a free Education & LMS WordPress theme powered by the best LMS WordPress Plugin - LearnPress. This theme is designed to help you have a complete look over an Education & LMS website. Being fully compatible with LearnPress, EduPress becomes the best way for a starter to experience LearnPress for real. Look at EduPress, you can see a modern design which fit for any of your purposes. Also, EduPress is carefully optimized for mobile devices, SEO and Page Speed. To make it easier for a starter to create courses, Elementor and Gutenberg are all supported by EduPress. It comes with Thim Elementor Kit which provides customizer settings for headers, footers, and everything in between. From all these functions and features, EduPress is the best Education WordPress Starter Theme for LearnPress and ready for you to create the dream website. Please Check theme demo here https://edupress.thimpress.com/.
+Version: 1.0.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-menu, editor-style, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: edu-press
+Domain Path: /languages/
+*/
+
+/*!--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 - Variables
+3.0 - Bootstrap 5
+
+5.0 - Mixins
+    5.1 - animate
+    5.2 - extend
+6.0 - Reset
+7.0 - Header
+	7.1 - Main menu
+	7.2 - Mega menu
+	7.3 - Topbar
+8.0 - Breadcrumb
+9.0 - Blog
+	9.1 - Sidebar
+	9.2 - Archive
+	9.3 - Single
+10.0 - Footer
+11.0 - Typography
+12.0 - Features
+13.0 - Shortcodes
+14.0 - Search Box
+15.0 - Home page styles
+16.0 - Related post popup
+17.0 - Video player
+18.0 - Sticky Video
+19.0 - Review Feature
+--------------------------------------------------------------*/
+/*!--------------------------------------------------------------
+1.0 - Variables
+----------------------------------------------------------------*/
+
+@import "variables";
+/*!--------------------------------------------------------------
+2.0 - Boostrap
+----------------------------------------------------------------*/
+@import "bootstrap/bootstrap-grid";
+/*!--------------------------------------------------------------
+4.0 - mixins
+----------------------------------------------------------------*/
+@import "mixins/mixins-master";
+///*!--------------------------------------------------------------
+//5.0 - reset
+//----------------------------------------------------------------*/
+@import "reset-style/reset-style";
+///*!--------------------------------------------------------------
+//6.0 - header
+//----------------------------------------------------------------*/
+@import "header/topbar";
+@import "header/header";
+@import "header/main-menu";
+// @import "header/mega-menu";
+///*!--------------------------------------------------------------
+//7.0 - breadcrumb
+//----------------------------------------------------------------*/
+@import "breadcrumb/breadcrumb";
+///*!--------------------------------------------------------------
+//8.0 - Blog
+//----------------------------------------------------------------*/
+@import "sidebar/sidebar";
+@import "blog/blog-archive";
+@import "blog/blog-single";
+@import "blog/unitest";
+///*!--------------------------------------------------------------
+//9.0 - footer
+//----------------------------------------------------------------*/
+//@import "footer/footer";
+///*!--------------------------------------------------------------
+//10.0 - features
+//----------------------------------------------------------------*/
+@import "features/preloading/spinkit";
+@import "features/back-to-top/back-to-top";
+///*!--------------------------------------------------------------
+//11.0 - typography
+//----------------------------------------------------------------*/
+@import "typography/typography";
+///*!--------------------------------------------------------------
+//11.0 - elements
+//----------------------------------------------------------------*/
+//@import "buttons/buttons";
+///*!--------------------------------------------------------------
+//12.0 - general
+//----------------------------------------------------------------*/
+@import "general-style/general-style";
+// widget
+@import "widgets/course-categories";
+//courses
+@import "courses/courses";

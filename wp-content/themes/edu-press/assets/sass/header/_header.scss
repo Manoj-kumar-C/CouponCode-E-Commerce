@@ -1,0 +1,44 @@
+/*
+ * Style header common
+ */
+
+header#masthead {
+	// Header V2
+	transition: all 0.3s ease-in-out;
+
+	.stack-center {
+		.col-sm-12 {
+			width: 100%;
+			display: block;
+			text-align: center;
+
+			&.width-logo {
+				margin-bottom: 20px;
+			}
+		}
+	}
+}
+
+
+.header-overlay {
+	header#masthead {
+		position: absolute;
+		top: 0;
+		right: 0;
+		left: 0;
+		z-index: 999;
+	}
+}
+
+.sticky-header #masthead.affix {
+	position: fixed;
+	left: 0;
+	right: 0;
+	z-index: 3;
+}
+
+@media (min-width: 769px) {
+	.mobile-menu-container {
+		display: none;
+	}
+}

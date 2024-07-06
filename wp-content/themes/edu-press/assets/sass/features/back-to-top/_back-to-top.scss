@@ -1,0 +1,24 @@
+#back-to-top {
+	width: 45px;
+	height: 45px;
+	position: fixed;
+	bottom: 15px;
+	right: 15px;
+	cursor: pointer;
+	@include transition(all 0.3s);
+	text-align: center;
+	line-height: 45px;
+	@include transform(translateY(100px));
+	z-index: 999;
+	background-color: $thim_body_primary_color;
+	color: #FFF;
+	border-radius: $thim_border_radius_button;
+
+	&:hover {
+		background-color: rgba($thim_body_primary_color_rgb, 0.8);
+	}
+
+	&.scrolldown {
+		@include transform(translateY(0px));
+	}
+}

@@ -1,0 +1,45 @@
+#breadcrumbs {
+	padding: 15px 0;
+	margin: 0;
+	border-bottom: 1px solid $thim_breadcrumb_border_color;
+
+	li {
+		line-height: 25px;
+		display: inline-block;
+		list-style: none;
+		font-size: $thim_breadcrumb_font_size;
+		color: $thim_breadcrumb_color;
+
+		a {
+			line-height: 25px;
+			display: inline-block;
+			font-size: $thim_breadcrumb_font_size;
+			margin-right: 12px;
+			color: $thim_font_body_color;
+
+			&::after {
+				content: "\f054";
+				font-family: "Font Awesome 5 Free";
+				font-size: 0.8em;
+				font-weight: 900;
+				color: inherit;
+				display: inline-block;
+				margin: 0 0 0 12px;
+				line-height: 25px;
+			}
+
+			&:hover{
+				color: $thim_body_primary_color;
+			}
+		}
+
+		span.breadcrum-icon {
+			margin: 0 10px;
+			@include opacity(.5);
+		}
+
+		&:last-child:after {
+			display: none;
+		}
+	}
+}

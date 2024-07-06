@@ -1,0 +1,16 @@
+.thim-ekits-course-categories{
+    display: grid;
+    grid-template-columns: var(--thim-ekits-course-categories__item, repeat(4, 1fr));
+    row-gap: var(--thim-ekits-course-categories-row-gap, 30px);
+    -moz-column-gap: var(--thim-ekits-course-categories-column-gap, 30px);
+    column-gap: var(--thim-ekits-course-categories-column-gap, 30px);
+
+    &__item{
+        text-align: center;
+        padding: 40px 40px 25px 40px;
+
+        .title{
+            margin-top: 20px;
+        }
+    }
+}

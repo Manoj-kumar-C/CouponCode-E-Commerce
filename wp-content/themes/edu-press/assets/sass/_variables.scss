@@ -1,0 +1,89 @@
+$white: #fff !default;
+//logo
+
+$thim_width_logo: var(--thim-width_logo);
+$thim_body_container: var(--thim-body_container);
+//styling
+$thim_body_primary_color: var(--thim-body_primary_color);
+$thim_body_primary_color_rgb: var(--thim-body_primary_color-rgb);
+$thim_background_main_color:var(--thim-background-main-color);
+$thim_course_price_color: var(--thim-course_price_color);
+//typograhy
+$thim_font_body_font_family: var(--thim-font_body-font-family);
+$thim_font_body_variant: var(--thim-font_body-variant,500);
+$thim_font_body_font_weight: var(--thim-font_body-variant,500);
+$thim_font_body_font_size: var(--thim-font_body-font-size);
+$thim_font_body_line_height: var(--thim-font_body-line-height);
+$thim_font_body_letter_spacing: var(--thim-font_body-letter-spacing);
+$thim_font_body_color: var(--thim-font_body-color, #727272);
+$thim_font_body_text_transform: var(--thim-font_body-text-transform);
+$thim_font_body_font_style: normal;
+//title
+$thim_font_title_font_family: var(--thim-font_title-font-family);
+$thim_font_title_color: var(--thim-font_title-color, #000000);
+$thim_font_title_font_size: var(--thim-font_title-font-size);
+$thim_font_title_font_weight: var(--thim-font_title-variant);
+$thim_font_title_font_style: normal;
+//Heading
+$thim_font_h1_font_size: var(--thim-font_h1-font-size);
+$thim_font_h1_line_height: var(--thim-font_h1-line-height);
+$thim_font_h1_text_transform: var(--thim-font_h1-text-transform);
+$thim_font_h2_font_size: var(--thim-font_h2-font-size);
+$thim_font_h2_line_height: var(--thim-font_h2-line-height);
+$thim_font_h2_text_transform: var(--thim-font_h2-text-transform);
+$thim_font_h3_font_size: var(--thim-font_h3-font-size);
+$thim_font_h3_line_height: var(--thim-font_h3-line-height);
+$thim_font_h3_text_transform: var(--thim-font_h3-text-transform);
+$thim_font_h4_font_size: var(--thim-font_h4-font-size);
+$thim_font_h4_line_height: var(--thim-font_h4-line-height);
+$thim_font_h4_text_transform: var(--thim-font_h4-text-transform);
+$thim_font_h5_font_size: var(--thim-font_h5-font-size);
+$thim_font_h5_line_height: var(--thim-font_h5-line-height);
+$thim_font_h5_text_transform: var(--thim-font_h5-text-transform);
+$thim_font_h6_font_size: var(--thim-font_h6-font-size);
+$thim_font_h6_line_height: var(--thim-font_h6-line-height);
+$thim_font_h6_text_transform: var(--thim-font_h6-text-transform);
+// Main menu
+
+$thim_main_menu_font_size: var(--thim-main_menu-font-size);
+$thim_main_menu_color: var(--thim-main_menu-color);
+$thim_main_menu_font_weight: var(--thim-font_title-variant);
+$thim_main_menu_line_height: var(--thim-main_menu-line-height);
+$thim_main_menu_text_transform: var(--thim-main_menu-text-transform);
+$thim_main_menu_text_align: var(--thim-main-menu-text-align);
+$thim_main_menu_color_background_color: var(--thim-main_menu_color-background_color);
+$thim_main_menu_color_border_color: var(--thim-main_menu_color-border_color);
+$thim_main_menu_color_text_hover: var(--thim-main_menu_color-text_color_hover);
+// Sub menu
+$thim_sub_menu_background_color: var(--thim-sub_menu-background_color);
+$thim_sub_menu_text_color: var(--thim-sub_menu-text_color);
+$thim_sub_menu_text_color_hover: var(--thim-sub_menu-text_color_hover);
+// Mobile Menu
+$thim_mobile_menu_background_color: var(--thim-mobile_menu-background_color);
+$thim_mobile_menu_text_color: var(--thim-mobile_menu-text_color);
+$thim_mobile_menu_text_color_hover: var(--thim-mobile_menu-text_color_hover);
+//Sticky Menu
+$thim_sticky_menu_background_color: var(--thim-sticky_menu-background_color);
+$thim_sticky_menu_text_color: var(--thim-sticky_menu-text_color);
+$thim_sticky_menu_text_color_hover: var(--thim-sticky_menu-text_color_hover);
+// border radius
+$thim_border_radius_item: var(--thim-border_radius-item, 0);
+$thim_border_radius_item_big: var(--thim-border_radius-item-big, 0);
+$thim_border_radius_button: var(--thim-border_radius-button, 0);
+//breadcrumbs
+$thim_breadcrumb_font_size: var(--thim-breadcrumb_font_size);
+$thim_breadcrumb_bg_color: var(--thim-breadcrumb_bg_color);
+$thim_breadcrumb_color: var(--thim-breadcrumb_color);
+$thim_breadcrumb_border_color: var(--thim-breadcrumb_border_color);
+// footer option
+$thim_footer_color_bg: var(--thim-footer-color-bg);
+$thim_footer_color_title: var(--thim-footer-color-title);
+$thim_footer_color_text: var(--thim-footer-color-text);
+$thim_footer_color_link: var(--thim-footer-color-link);
+$thim_footer_color_hover: var(--thim-footer-color-hover);
+
+$theme_feature_preloading_style_color: var(--thim-theme_feature_preloading_style-color);
+$theme_feature_preloading_style_background: var(--thim-theme_feature_preloading_style-background);
+
+$font-size-small: 12px;
+$thim_font_button_font_weight: var(--thim-font-button-font-weight, 500);

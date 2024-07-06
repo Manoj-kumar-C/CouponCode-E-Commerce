@@ -1,0 +1,62 @@
+/*
+ * Style Footer
+ */
+
+footer#colophon {
+	background-color: $thim_footer_background_color;
+	color: $thim_footer_color_text;
+
+	a {
+		color: $thim_footer_color_link;
+
+		&:hover {
+			color: $thim_footer_color_hover;
+		}
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		color: $thim_footer_color_title;
+	}
+
+	.footer {
+		padding: 25px 0;
+	}
+
+	.widget-title {
+		margin-top: 0;
+	}
+
+	.site-info {
+		text-align: center;
+
+		a {
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+
+	.copyright-area {
+		padding: 30px 0;
+		border-top: 1px solid transparent;
+		background-color: $thim_copyright_background_color;
+		color: $thim_font_copyright_color_text;
+
+		a {
+			color: $thim_font_copyright_color_link;
+
+			&:hover {
+				color: $thim_font_copyright_color_hover;
+			}
+		}
+
+		ul {
+			margin: 0;
+			list-style: none;
+
+			li {
+				display: inline-block;
+			}
+		}
+	}
+}
